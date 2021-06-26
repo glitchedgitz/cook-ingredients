@@ -1,0 +1,16 @@
+# There will be more powerfull patterns in future.
+
+patterns:
+    date : 
+        - (D,M,Y)
+        - DMY
+        - MDY
+        - D/M/Y
+        - M/D/Y
+        - D-M-Y
+        - M-D-Y
+        - D.M.Y
+        - M.D.Y
+        - D.Y
+        - M.Y
+        - D.M

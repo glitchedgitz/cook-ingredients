@@ -1,0 +1,57 @@
+# Character set like crunch
+charSet:
+    ~cm   : [","]
+    sep   : [_- ] #common separators
+    n     : [0123456789]
+    A     : [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
+    a     : [abcdefghijklmnopqrstuvwxyz]
+    aAn   : [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]
+    An    : [ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]
+    an    : [abcdefghijklmnopqrstuvwxyz0123456789]
+    aA    : [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ]
+    s     : ["!#$%&'()*+,-./:;<=>?@[\\]^_`{|}~&\""]
+    all   : ["!#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\""]
+
+# File to access from anywhere
+files:        
+    openredirect  : [E:\tools\base\lists\openurl.txt]
+    impwords      : [E:\tools\base\lists\imp.txt]
+    ghdork        : [E:\tools\notes\Files\github.txt]
+    ghlang        : [E:\tools\notes\Files\languages.txt]
+
+# Create your lists
+lists:
+    aws          : [amazon, aws, bucket, s3, azure]
+    schemas      : [aim, callto, cvs, data, facetime, feed, file, ftp, git, gopher, gtalk, h323, hdl, http, https, imap, irc, irc6, ircs, itms, javascript, magnet, mailto, mms, msnim, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, skype, smb, snews, ssh, svn, svn, svn+ssh, telnet, tel, wais, ymsg]
+    ssrf_schemas : [file://, file:///, dict://, ftp://, ldap://, gopher://]
+    admin_set    : [admin, root, su, superuser, administration]
+    juicy        : [admin, reset, password, username, user, pass, jwt, jenkins, auth, saml, corp, dev, stag, stg, prod, sandbox, uat, test, vpn, cms, secret, private, email, stage, test, devops, staff, db, qa, internal, lbs]
+
+    api          : [api,swagger,/v1, /v2, /v3, /v4, /v5, /api, /v1/explorer, /v1/graphiql, /graph, /graphql, /graphql/console/, /graphql.php, /graphql.js, /graphiql, /graphiql.php, id_dsa, xoxr, xoxa-2, token, edit, delete, modify]
+    pass_ends    : [123, "@123", "#123", "!", "!#"]
+    months       : [january, february, march, april, may, june, july, august, september, october, november, december]
+    mons         : [jan, feb, mar, apr, may, jun, jul, july, aug, sep, oct, nov, dec]
+    seasons      : [summer, winter, autumn, spring]
+
+# Extension Set, "." will added before using this
+extensions:
+    
+    config  : [conf, confq, config]
+    data    : [xml, json, yaml, yml]
+    backup  : [bak, backup, backup1, backup2]
+    exec    : [exe, msi, bin, command, sh, bat, crx]
+    web     : [html, html5, htm, js, jsx, jsp, wasm, php, php3, php5, php7]
+    iis     : [asax, ascx, asmx, aspx, exe, aspx.cs, ashx, axd, config, htm, jar, js, rdl, swf, txt, xls, xml, xsl, zpd, suo, sln]
+    archive : [7z, a, apk, xapk, ar, bz2, cab, cpio, deb, dmg, egg, gz, iso, jar, lha, mar, pea, rar, rpm, s7z, shar, tar, tbz2, tgz, tlz, war, whl, xpi, zip, zipx, xz, pak, tar.gz, gz]
+    code    : [c, cc, class, clj, cpp, cs, cxx, el, go, h, java, lua, m, m4, php, php3, php5, php7, pl, po, py, rb, rs, sh, swift, vb, vcxproj, xcodeproj, xml, diff, patch, js, jsx]
+
+#Rest
+    css_type: [css, less, scss]
+    sheet   : [ods, xls, xlsx, csv, ics vcf]
+    slide   : [ppt, pptx, odp]
+    font    : [eot, otf, ttf, woff, woff2]
+    text    : [doc, docx, ebook, log, md, msg, odt, org, pages, pdf, rtf, rst, tex, txt, wpd, wps]
+    audio   : [aac, aiff, ape, au, flac, gsm, it, m3u, m4a, mid, mod, mp3, mpa, pls, ra, s3m, sid, wav, wma, xm]
+    book    : [mobi, epub, azw1, azw3, azw4, azw6, azw, cbr, cbz]
+    video   : [3g2, 3gp, aaf, asf, avchd, avi, drc, flv, m2v, m4p, m4v, mkv, mng, mov, mp2, mp4, mpe, mpeg, mpg, mpv, mxf, nsv, ogg, ogv, ogm, qt, rm, rmvb, roq, srt, svi, vob, webm, wmv, yuv]
+    image   : [3dm, 3ds, max, bmp, dds, gif, jpg, jpeg, png, psd, xcf, tga, thm, tif, tiff, yuv, ai, eps, ps, svg, dwg, dxf, gpx, kml, kmz, webp]

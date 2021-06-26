@@ -1,0 +1,273 @@
+# https://wordlists-cdn.assetnote.io/data/
+
+files:
+    2m-subdomains:
+    - https://wordlists-cdn.assetnote.io/./data/manual/2m-subdomains.txt
+    adobe_experience_manager:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_adobe_experience_manager_2021_04_28.txt
+    apache:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_apache_2021_05_28.txt
+    apiroutes:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2020_11_20.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_apiroutes_2021_01_28.txt
+    asp_lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/asp_lowercase.txt
+    aspx_asp_cfm_svc_ashx_asmx:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2021_05_28.txt
+    aspx_lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/aspx_lowercase.txt
+    bak:
+    - https://wordlists-cdn.assetnote.io/./data/manual/bak.txt
+    best-dns-wordlist:
+    - https://wordlists-cdn.assetnote.io/./data/manual/best-dns-wordlist.txt
+    cfm:
+    - https://wordlists-cdn.assetnote.io/./data/manual/cfm.txt
+    cgi_pl:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_cgi_pl_2021_04_28.txt
+    cherrypy:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_cherrypy_2021_04_28.txt
+    coldfusion:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_coldfusion_2021_02_28.txt
+    directories_1m:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_directories_1m_2021_03_28.txt
+    django:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_django_2021_01_28.txt
+    do:
+    - https://wordlists-cdn.assetnote.io/./data/manual/do.txt
+    dot_filenames:
+    - https://wordlists-cdn.assetnote.io/./data/manual/dot_filenames.txt
+    express:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_express_2021_05_28.txt
+    flask:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_flask_2020_11_18.txt
+    html:
+    - https://wordlists-cdn.assetnote.io/./data/manual/html.txt
+    html_htm:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_html_htm_2021_02_28.txt
+    js:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_js_2021_02_28.txt
+    jsp:
+    - https://wordlists-cdn.assetnote.io/./data/manual/jsp.txt
+    jsp_jspa_do_action:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_jsp_jspa_do_action_2021_02_28.txt
+    laravel:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_laravel_2021_03_28.txt
+    nginx:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_nginx_2021_03_28.txt
+    parameters_top_1m:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2020_11_21.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_parameters_top_1m_2021_02_28.txt
+    php:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_php_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/manual/php.txt
+    phpmillion:
+    - https://wordlists-cdn.assetnote.io/./data/manual/phpmillion.txt
+    pl:
+    - https://wordlists-cdn.assetnote.io/./data/manual/pl.txt
+    raft-large-directories:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-directories.txt
+    raft-large-directories-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-directories-lowercase.txt
+    raft-large-extensions:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-extensions.txt
+    raft-large-extensions-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-extensions-lowercase.txt
+    raft-large-files:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-files.txt
+    raft-large-files-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-files-lowercase.txt
+    raft-large-words:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-words.txt
+    raft-large-words-ext:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-words-ext.txt
+    raft-large-words-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-large-words-lowercase.txt
+    raft-medium-directories:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-directories.txt
+    raft-medium-directories-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-directories-lowercase.txt
+    raft-medium-extensions:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-extensions.txt
+    raft-medium-extensions-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-extensions-lowercase.txt
+    raft-medium-files:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-files.txt
+    raft-medium-files-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-files-lowercase.txt
+    raft-medium-words:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-words.txt
+    raft-medium-words-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-medium-words-lowercase.txt
+    raft-small-directories:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-directories.txt
+    raft-small-directories-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-directories-lowercase.txt
+    raft-small-extensions:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-extensions.txt
+    raft-small-extensions-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-extensions-lowercase.txt
+    raft-small-files:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-files.txt
+    raft-small-files-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-files-lowercase.txt
+    raft-small-words:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-words.txt
+    raft-small-words-lowercase:
+    - https://wordlists-cdn.assetnote.io/./data/manual/raft-small-words-lowercase.txt
+    rails:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_rails_2020_11_18.txt
+    spring:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_spring_2021_02_28.txt
+    subdomains:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_subdomains_2021_01_28.txt
+    symfony:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_symfony_2020_11_18.txt
+    tomcat:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_tomcat_2021_05_28.txt
+    txt:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_txt_2021_02_28.txt
+    wordlist_no_underscores:
+    - https://wordlists-cdn.assetnote.io/./data/manual/wordlist_no_underscores.txt
+    wordlist_with_underscores:
+    - https://wordlists-cdn.assetnote.io/./data/manual/wordlist_with_underscores.txt
+    xml:
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/automated/httparchive_xml_2021_01_28.txt
+    xml_filenames:
+    - https://wordlists-cdn.assetnote.io/./data/manual/xml_filenames.txt
+    yii:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2020_11_18.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_yii_2021_01_28.txt
+    zend:
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2021_02_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2021_05_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2021_01_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2021_04_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2021_03_28.txt
+    - https://wordlists-cdn.assetnote.io/./data/technologies/httparchive_zend_2020_11_18.txt
