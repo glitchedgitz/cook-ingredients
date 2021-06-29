@@ -4,7 +4,7 @@ assetnote.yaml:
     - an                                         # prefix
     - https://wordlists-cdn.assetnote.io/data/   # repo
 bruteforce-database.yaml:
-    - 0
+    - 1
     - bd
     - https://github.com/duyet/bruteforce-database 
 fuzzdb.yaml:
