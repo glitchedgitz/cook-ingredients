@@ -1,4 +1,9 @@
-# https://wordlists-cdn.assetnote.io/data/
+
+# info:
+#     shortname: an 
+#     created: 20/06/2021
+#     last-updated: 28/06/2021 
+#     repo: https://wordlists-cdn.assetnote.io/data/ 
 
 files:
     2m-subdomains:

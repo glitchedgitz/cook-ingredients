@@ -1,5 +1,5 @@
 # There will be more powerfull patterns in future.
-
+# Patterns should able to use cook's features like ranges, wordlists, url analysing, for modifying target specific wordlist and create password patterns
 patterns:
     date : 
         - (D,M,Y)
@@ -14,3 +14,7 @@ patterns:
         - D.Y
         - M.Y
         - D.M
+
+    arjun : 
+        - (DOMAIN)
+        - arjun -u DOMAIN -w E:\tools\others\Arjun\arjun\db\params.txt

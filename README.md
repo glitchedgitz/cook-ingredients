@@ -5,6 +5,7 @@ Collection of all the wordlists for using in [cook](https://github.com/giteshnxt
 - [Assetnotes Wordlsits](https://wordlists.assetnote.io/)
 - [Seclist](https://github.com/danielmiessler/SecLists)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+- [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ### Todo
 http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/

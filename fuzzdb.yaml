@@ -1,4 +1,8 @@
-# https://github.com/fuzzdb-project/fuzzdb
+# info:
+#     shortname: fz
+#     created: 20/06/2021
+#     last-updated: 28/06/2021 
+#     repo: https://github.com/fuzzdb-project/fuzzdb
 
 files:
     all-attacks-unix.txt : [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-unix.txt]
