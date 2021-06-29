@@ -1,5 +1,3 @@
-# There will be more powerfull patterns in future.
-# Patterns should able to use cook's features like ranges, wordlists, url analysing, for modifying target specific wordlist and create password patterns
 patterns:
     date : 
         - (D,M,Y)

@@ -1,8 +1,3 @@
-# info:
-#     shortname: patt
-#     created: 20/06/2021
-#     last-updated: 28/06/2021 
-#     repo: https://github.com/swisskyrepo/PayloadsAllTheThings
 
 files:
   crlfinjection.txt : [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/CRLF Injection/crlfinjection.txt]
