@@ -1,13 +1,10 @@
 # Don't mess this up. `cook -u yaml` works on this
-
-url: https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/
-files:
-  assetnote.yaml: 0
-  bruteforce-database.yaml: 0
-  custom.yaml: 0
-  fuzzdb.yaml: 0
-  others.yaml: 0
-  patterns.yaml: 0
-  payloads.yaml: 0
-  ports.yaml: 0
-  seclist.yaml: 0
+assetnote.yaml: 0
+bruteforce-database.yaml: 0
+custom.yaml: 0
+fuzzdb.yaml: 0
+others.yaml: 0
+patterns.yaml: 0
+payloads.yaml: 0
+ports.yaml: 0
+seclist.yaml: 0
