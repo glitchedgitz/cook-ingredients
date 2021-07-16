@@ -1,14 +1,14 @@
 infofiles:
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/info.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/leet.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/check.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/info.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/leet.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/check.yaml
 
 yamlfiles:
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/assetnote.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/bruteforce-database.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/custom.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/fuzzdb.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/others.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/patterns.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/ports.yaml
-  https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/seclist.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/assetnote.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/bruteforce-database.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/custom.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/fuzzdb.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/others.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/patterns.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/ports.yaml
+  - https://raw.githubusercontent.com/giteshnxtlvl/cooks-wordlists-database/main/yaml/seclist.yaml
