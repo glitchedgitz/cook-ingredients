@@ -1,10 +1,10 @@
 # Don't mess this up. `cook -u yaml` works on this
 assetnote.yaml:
-    - 0                                          # version
-    - an                                         # prefix
-    - https://wordlists-cdn.assetnote.io/data/   # repo
+    - 0                                          # Version
+    - an                                         # Prefix
+    - https://wordlists-cdn.assetnote.io/data/   # Repo
 bruteforce-database.yaml:
-    - 1
+    - 0 
     - bd
     - https://github.com/duyet/bruteforce-database 
 fuzzdb.yaml:
@@ -19,13 +19,13 @@ patterns.yaml:
     - 0
     - ""
     - ""
-payloads.yaml:
+patt.yaml:
     - 0
     - patt
-    - ""
+    - https://github.com/swisskyrepo/PayloadsAllTheThings
 ports.yaml:
     - 0
-    - ""
+    - port
     - ""
 seclist.yaml:
     - 0
