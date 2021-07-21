@@ -1,4 +1,4 @@
-patterns:
+functions:
     date : 
         - (D,M,Y)
         - DMY
@@ -12,7 +12,3 @@ patterns:
         - D.Y
         - M.Y
         - D.M
-
-    arjun : 
-        - (DOMAIN)
-        - arjun -u DOMAIN -w E:\tools\others\Arjun\arjun\db\params.txt

@@ -15,14 +15,10 @@ others.yaml:
     - 0
     - ""
     - ""
-patterns.yaml:
+functions.yaml:
     - 0
     - ""
     - ""
-patt.yaml:
-    - 0
-    - patt
-    - https://github.com/swisskyrepo/PayloadsAllTheThings
 ports.yaml:
     - 0
     - port

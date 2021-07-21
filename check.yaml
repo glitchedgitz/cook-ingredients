@@ -22,6 +22,12 @@ dirsearch:
     - https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt
 fz-db2_default_pass.txt:
     - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/wordlists-user-passwd/db2/db2_default_pass.txt
+fz-default-javascript-event-attributes.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/xss/default-javascript-event-attributes.txt
+fz-html-event-attributes.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/xss/html-event-attributes.txt
+fz-html_tags.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/html_js_fuzz/html_tags.txt
 fz-http_default_pass.txt:
     - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/wordlists-user-passwd/generic-listpairs/http_default_pass.txt
 fz-http_default_users.txt:
@@ -38,11 +44,25 @@ sec-cirt-default-passwords.txt:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/cirt-default-passwords.txt
 sec-commonadminbase64.txt:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Usernames/CommonAdminBase64.txt
+sec-html-attributes.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Miscellaneous/web/html-attributes.txt
+sec-html-tags.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Miscellaneous/web/html-tags.txt
 sec-raft-small-directories.txt:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-small-directories.txt
 sec-robotsdisallowed-top500.txt:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/RobotsDisallowed-Top500.txt
 sec-top-usernames-shortlist.txt:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Usernames/top-usernames-shortlist.txt
+sec-xss-cheat-sheet-portswigger.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/XSS-Cheat-Sheet-PortSwigger.txt
+sec-xss-rsnake.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/XSS-RSNAKE.txt
+sec-xss-somdev.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/XSS-Somdev.txt
+shub_zip_files:
+    - https://storage.googleapis.com/zipfilesbq/zipfiles.json
 techgaun-github-dorks:
     - https://raw.githubusercontent.com/techgaun/github-dorks/master/github-dorks.txt
+xss-payload-list:
+    - https://raw.githubusercontent.com/payloadbox/xss-payload-list/master/Intruder/xss-payload-list.txt
