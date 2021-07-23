@@ -1,13 +1,4 @@
 # It's better to fetch wordlist from their original source
-
-# Character set like crunch
-chars:
-    n      : [0123456789]
-    a      : [abcdefghijklmnopqrstuvwxyz]
-    aa     : [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
-    s      : ["!#$%&'()*+,-./:;<=>?@[\\]^_`{|}~&\""]
-    allc   : ["!#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\""]
-
 files:
     dirsearch        : [https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt]
     arjun_params     : [https://raw.githubusercontent.com/s0md3v/Arjun/master/arjun/db/params.txt]
@@ -32,6 +23,11 @@ files:
     xss-payload-list  : [https://raw.githubusercontent.com/payloadbox/xss-payload-list/master/Intruder/xss-payload-list.txt]
 
 lists:
+    n            : [0,1,2,3,4,5,6,7,8,9]
+    a            : [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+    aa           : [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z]
+    s            : ["!","#","$","%","&","(",")","*","+","-",".","/",":",";","<",'=',">","?","@","\\","^","_","`","|","~","\""]
+    allchars     : [0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,"!","#","$","%","&","(",")","*","+","-",".","/",":",";","<",'=',">","?","@","\\","^","_","`","|","~","\""]
     aws          : [amazon, aws, bucket, s3, azure]
     juicy        : [admin, reset, password, username, user, pass, jwt, jenkins, auth, saml, corp, dev, stag, stg, prod, sandbox, uat, test, vpn, cms, secret, private, email, stage, test, devops, staff, db, qa, internal, lbs]
     schemas      : [aim, callto, cvs, data, facetime, feed, file, ftp, git, gopher, gtalk, h323, hdl, http, https, imap, irc, irc6, ircs, itms, javascript, magnet, mailto, mms, msnim, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, skype, smb, snews, ssh, svn, svn, svn+ssh, telnet, tel, wais, ymsg]
@@ -43,12 +39,12 @@ lists:
     months       : [january, february, march, april, may, june, july, august, september, october, november, december]
     mons         : [jan, feb, mar, apr, may, jun, jul, july, aug, sep, oct, nov, dec]
     seasons      : [summer, winter, autumn, spring]
+    or           : [ "/http","=http","next=","u=","url=","target=","rurl=","rUrl","dest=","destination=","redir=","return_url","follow=","goto=","redirect_uri=","redirect_url=","redirect=","/redirect/","bin/redirect.cgi?","/out/","/out?","view=","/login?to=","history=","redirectTo=","redirectUrl=","redirUrl=","image_url=","go=","return=","returnTo=","return_to=","checkout_url=","continue=","return_path=","r_=","_r=","retURL=","service=","root=","path=","ru=","ur=","image=","file="]
 
-# Extension Set, "." will added before using this
-exts:  
+    # Extensions
     config  : [conf, confq, config]
     data    : [xml, json, yaml, yml]
-    backup  : [bak, backup, backup1, backup2]
+    backup  : [bak, backup, .backup1, backup2]
     exec    : [exe, msi, bin, command, sh, bat, crx]
     basic   : [php, js, html, jsp, aspx]
     web     : [html, html5, htm, js, jsx, jsp, wasm, php, php3, php5, php7]

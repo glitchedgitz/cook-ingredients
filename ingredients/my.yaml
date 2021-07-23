@@ -1,61 +1,45 @@
-lists:
-    or:
-        - /http
-        - =http
-        - next=
-        - u=
-        - url=
-        - target=
-        - rurl=
-        - rUrl
-        - dest=
-        - destination=
-        - redir=
-        - return_url
-        - follow=
-        - goto=
-        - redirect_uri=
-        - redirect_url=
-        - redirect=
-        - /redirect/
-        - /cgi-bin/redirect.cgi?
-        - /out/
-        - /out?
-        - view=
-        - /login?to=
-        - history=
-        - redirectTo=
-        - redirectUrl=
-        - redirUrl=
-        - image_url=
-        - go=
-        - return=
-        - returnTo=
-        - return_to=
-        - checkout_url=
-        - continue=
-        - return_path=
-        - r_=
-        - _r=
-        - retURL=
-        - service=
-        - root=
-        - path=
-        - ru=
-        - ur=
-        - image=
-        - file=
-    shdork:
-        - kibana content-length:217
-        
-raw-files:
-    bxss:
-        - E:\tools\base\bxss.txt
-    ghdork:
-        - E:\tools\notes\Files\github.txt
-    ghlang:
-        - E:\tools\notes\Files\languages.txt
-    impwords:
-        - E:\tools\base\lists\imp.txt
-    openredirect:
-        - E:\tools\base\lists\openurl.txt
+# lists:
+    
+
+# Save your local files or urls to fetch everytime  
+# raw-files:
+#     bxss:
+#         - E:\tools\base\bxss.txt
+#     ghdork:
+#         - E:\tools\notes\Files\github.txt
+#     ghlang:
+#         - E:\tools\notes\Files\languages.txt
+#     impwords:
+#         - E:\tools\base\lists\imp.txt
+#     openredirect:
+#         - E:\tools\base\lists\openurl.txt
+
+# Save your files/urls with cache
+# files:
+#     Keyword1:
+#         - file/url
+#         - file/url
+#         - file/url
+#     Keyword2:
+#         - file/url
+#         - file/url
+
+# Variations of values
+# functions:
+#     func1:
+#         - (param1, param2, param3)
+#         - variation1
+#         - variation2
+
+# Just Ports
+# ports:
+#     portset1:[80, 81, 101-104, ...]
+#     portset2:[3306]
+
+# Just Ports
+# ports:
+#     portset1:[80, 81, 101-104, ...]
+#     portset2:[3306]
+
+
+
