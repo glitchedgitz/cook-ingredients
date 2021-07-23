@@ -6,6 +6,7 @@ infofiles:
 yamlfiles:
   - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/assetnote.yaml"
   - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/bruteforce-database.yaml"
+  - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/bruteforce-lists.yaml"
   - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/my.yaml"
   - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/fuzzdb.yaml"
   - "https://raw.githubusercontent.com/giteshnxtlvl/cook-ingredients/main/ingredients/others.yaml"
