@@ -7,6 +7,10 @@ bruteforce-database.yaml:
     - 0 
     - bd
     - https://github.com/duyet/bruteforce-database 
+bruteforce-lists.yaml:
+    - 0 
+    - bl
+    - https://github.com/random-robbie/bruteforce-lists
 fuzzdb.yaml:
     - 0
     - fz

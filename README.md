@@ -6,6 +6,7 @@ Collection of all the wordlists for using in [cook](https://github.com/giteshnxt
 - [Seclist](https://github.com/danielmiessler/SecLists)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 - [Bruteforce Database](https://github.com/duyet/bruteforce-database)
+- [Bruteforce Lists](https://github.com/random-robbie/bruteforce-lists)
 
 ### To Fetch
 http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/
@@ -22,6 +23,6 @@ http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/
 6. Add tab before rest of the lines.
 7. Put the file in `cook-ingredient` folder and you are done.
 ```
-git ls-tree -r master --name-only | grep .txt$ | cook -p - p.fb " : [" <Repo URL> p ] -append 3 
+git ls-tree -r master --name-only | grep .txt$ | cook -p - p.fb " : [" https://raw.githubusercontent.com/username/repo/master/ p ] -append 3 
 ```
 > Cook 2.0 needed for above command
