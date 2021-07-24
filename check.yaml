@@ -1,0 +1,26 @@
+arjun_params:
+    - https://raw.githubusercontent.com/s0md3v/Arjun/master/arjun/db/params.txt
+bl-adminer.txt:
+    - https://raw.githubusercontent.com/random-robbie/bruteforce-lists/master/adminer.txt
+fz-common-methods.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/discovery/common-methods/common-methods.txt
+fz-db2_default_pass.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/wordlists-user-passwd/db2/db2_default_pass.txt
+fz-db2_default_userpass.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/wordlists-user-passwd/db2/db2_default_userpass.txt
+fz-http-protocol-methods.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/http-protocol/http-protocol-methods.txt
+fz-http_default_pass.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/wordlists-user-passwd/generic-listpairs/http_default_pass.txt
+fz-redirect-urls-template.txt:
+    - https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/redirect/redirect-urls-template.txt
+rr_open_redirect:
+    - https://raw.githubusercontent.com/random-robbie/open-redirect/master/payloads.txt
+sec-cirt-default-usernames.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Usernames/cirt-default-usernames.txt
+sec-default-passwords.csv:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Default-Credentials/default-passwords.csv
+sec-http-request-methods.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/http-request-methods.txt
+sec-oracle-betterdefaultpasslist.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Default-Credentials/oracle-betterdefaultpasslist.txt

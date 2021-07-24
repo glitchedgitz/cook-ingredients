@@ -12,3 +12,12 @@ functions:
         - D.Y
         - M.Y
         - D.M
+
+    orange_ssrf:
+        - (D1,D2,D3)
+        - http://D1 &@D2# @D3/
+        - http://D1 &@D3# @D2/
+        - http://D2 &@D1# @D3/
+        - http://D2 &@D3# @D1/
+        - http://D3 &@D2# @D1/
+        - http://D3 &@D1# @D2/
