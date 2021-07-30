@@ -1,6 +1,6 @@
 # Don't mess this up. `cook -u yaml` works on this
 assetnote.yaml:
-    - 0                                          # Version
+    - 1                                          # Version
     - an                                         # Prefix
     - https://wordlists-cdn.assetnote.io/data/   # Repo
 bruteforce-database.yaml:
