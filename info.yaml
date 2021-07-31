@@ -1,4 +1,4 @@
-# Don't mess this up. `cook -u yaml` works on this
+# Don't mess this up. `cook update db` works on this
 assetnote.yaml:
     - 1                                          # Version
     - an                                         # Prefix
