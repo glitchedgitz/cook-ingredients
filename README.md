@@ -7,6 +7,7 @@ Collection of all the wordlists for using in [cook](https://github.com/giteshnxt
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 - [Bruteforce Database](https://github.com/duyet/bruteforce-database)
 - [Bruteforce Lists](https://github.com/random-robbie/bruteforce-lists)
+- [OneListForAll](https://github.com/six2dez/OneListForAll)
 
 ### To Fetch
 http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/
