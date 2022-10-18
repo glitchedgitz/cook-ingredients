@@ -1,5 +1,5 @@
 # Cook's Ingredients
-Collection of all the wordlists for using in [cook](https://github.com/giteshnxtlvl/cook)
+Collection of all the wordlists for using in [cook](https://github.com/glitchedgitz/cook)
 
 ### Currently fetched
 - [Assetnotes Wordlsits](https://wordlists.assetnote.io/)
@@ -13,7 +13,7 @@ Collection of all the wordlists for using in [cook](https://github.com/giteshnxt
 http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/
 
 ### Customize
-<img src="https://github.com/giteshnxtlvl/cook/raw/dev2/assets/folder%20structure.png">
+<img src="https://github.com/glitchedgitz/cook/raw/dev2/assets/folder%20structure.png">
 
 ### Creating yaml file for any repo
 1. Download that repo
