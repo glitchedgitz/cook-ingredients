@@ -1,4 +1,5 @@
 files:
+    _copyright.txt: [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/_copyright.txt]
     all-attacks-unix.txt: [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-unix.txt]
     all-attacks-win.txt: [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-win.txt]
     all-attacks-xplatform.txt: [https://raw.githubusercontent.com/fuzzdb-project/fuzzdb/master/attack/all-attacks/all-attacks-xplatform.txt]
