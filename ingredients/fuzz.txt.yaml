@@ -1,0 +1,4 @@
+files:
+    LICENSE.txt: [https://raw.githubusercontent.com/Bo0oM/fuzz.txt/master/LICENSE.txt]
+    extensions.txt: [https://raw.githubusercontent.com/Bo0oM/fuzz.txt/master/extensions.txt]
+    fuzz.txt: [https://raw.githubusercontent.com/Bo0oM/fuzz.txt/master/fuzz.txt]

@@ -1,0 +1,13 @@
+files:
+    palera1n-installation-logs-15.7.3.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/iOS/palera1n-installation-logs-15.7.3.txt]
+    palera1n-installation-logs.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/iOS/palera1n-installation-logs.txt]
+    cmd.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/tests/cmd.txt]
+    hello.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/tests/hello.txt]
+    hellodll.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/tests/hellodll.txt]
+    helloexe.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/tests/helloexe.txt]
+    test1.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/tests/test1.txt]
+    fi-firstnames.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/wordlists/finnish/fi-firstnames.txt]
+    fi-kotus-wordlist-v1.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/wordlists/finnish/fi-kotus-wordlist-v1.txt]
+    fi-lastnames.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/wordlists/finnish/fi-lastnames.txt]
+    liferay-all-modules.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/wordlists/liferay/liferay-all-modules.txt]
+    liferay-all-urls.txt: [https://raw.githubusercontent.com/tomikoski/tk0-bugbounty/master/wordlists/liferay/liferay-all-urls.txt]

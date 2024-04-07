@@ -2,28 +2,32 @@
 Collection of all the wordlists for using in [cook](https://github.com/glitchedgitz/cook)
 
 ### Currently fetched
-- [Assetnotes Wordlsits](https://wordlists.assetnote.io/)
-- [Seclist](https://github.com/danielmiessler/SecLists)
-- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
-- [Bruteforce Database](https://github.com/duyet/bruteforce-database)
-- [Bruteforce Lists](https://github.com/random-robbie/bruteforce-lists)
-- [OneListForAll](https://github.com/six2dez/OneListForAll)
-
-### To Fetch
-http://ftp.funet.fi/pub/unix/security/passwd/crack/dictionaries/
-
-### Customize
-<img src="https://github.com/glitchedgitz/cook/raw/dev2/assets/folder%20structure.png">
-
-### Creating yaml file for any repo
-1. Download that repo
-2. Move to its directory
-3. Replace the url of repo in the below command
-4. Run the command and save the output
-5. Open file and add `files:` at the top.
-6. Add tab before rest of the lines.
-7. Put the file in `cook-ingredient` folder and you are done.
-```
-git ls-tree -r master --name-only | grep .txt$ | cook -p - p.fb " : [" https://raw.githubusercontent.com/username/repo/master/ p ] -append 3 
-```
-> Cook 2.0 needed for above command
+- <https://wordlists.assetnote.io/>
+- <https://github.com/danielmiessler/SecLists>
+- <https://github.com/fuzzdb-project/fuzzdb>
+- <https://github.com/swisskyrepo/PayloadsAllTheThings>
+- <https://github.com/the-xentropy/samlists>
+- <https://github.com/Bo0oM/fuzz.txt>
+- <https://github.com/six2dez/OneListForAll>
+- <https://github.com/xmendez/wfuzz>
+- <https://github.com/minimaxir/big-list-of-naughty-strings>
+- <https://github.com/TheRook/subbrute>
+- <https://github.com/danielmiessler/RobotsDisallowed>
+- <https://github.com/swisskyrepo/PayloadsAllTheThings>
+- <https://github.com/1N3/IntruderPayloads>
+- <https://github.com/cujanovic>
+- <https://github.com/lavalamp-/password-lists>
+- <https://github.com/arnaudsoullie/ics-default-passwords>
+- <https://github.com/jeanphorn/wordlist>
+- <https://github.com/j3ers3/PassList>
+- <https://github.com/nyxxxie/awesome-default-passwords>
+- <https://www.owasp.org/index.php/DirBuster>
+- <https://github.com/wireghoul/dotdotpwn>
+- <https://github.com/xyele/hackerone_wordlist>
+- <https://github.com/assetnote/commonspeak2-wordlists>
+- <https://github.com/random-robbie/bruteforce-lists>
+- <https://github.com/duyet/bruteforce-database>
+- <https://wordlists.assetnote.io/>
+- <https://github.com/tasooshi/brutas>
+- <https://github.com/decal/werdlists>
+- <https://github.com/tomikoski/tk0-bugbounty>

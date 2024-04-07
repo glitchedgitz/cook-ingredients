@@ -1,1 +1,6 @@
-
+sec-api_endpoints.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/api/api_endpoints.txt
+sec-common-api-endpoints-mazen160.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common-api-endpoints-mazen160.txt
+sec-dirsearch.txt:
+    - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/dirsearch.txt

@@ -1,0 +1,8 @@
+files:
+    names.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/names.txt]
+    names_small.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/names_small.txt]
+    resolvers.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/resolvers.txt]
+    names_1.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/windows/names.txt]
+    names_large.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/windows/names_large.txt]
+    names_small_1.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/windows/names_small.txt]
+    resolvers_1.txt: [https://raw.githubusercontent.com/TheRook/subbrute/master/windows/resolvers.txt]

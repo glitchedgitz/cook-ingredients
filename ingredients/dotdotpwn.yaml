@@ -1,0 +1,9 @@
+files:
+    AUTHORS.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/AUTHORS.txt]
+    CHANGELOG.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/CHANGELOG.txt]
+    User-Agents.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/DotDotPwn/User-Agents.txt]
+    EXAMPLES.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/EXAMPLES.txt]
+    LICENSE.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/LICENSE.txt]
+    TODO.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/TODO.txt]
+    payload_sample_1.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/payload_sample_1.txt]
+    payload_sample_2.txt: [https://raw.githubusercontent.com/wireghoul/dotdotpwn/master/payload_sample_2.txt]

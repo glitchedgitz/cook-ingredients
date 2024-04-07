@@ -1,33 +1,126 @@
 # Don't mess this up. `cook update db` works on this
 assetnote.yaml:
-    - 1                                          # Version
-    - an                                         # Prefix
-    - https://wordlists-cdn.assetnote.io/data/   # Repo
+  - 1 # Version
+  - assetnote # Prefix
+  - https://wordlists-cdn.assetnote.io/data/ # Repo
+awesome-default-passwords.yaml:
+  - 1
+  - awesome-default-passwords
+  - https://github.com/nyxxxie/awesome-default-passwords
+big-list-of-naughty-strings.yaml:
+  - 1
+  - big-list-of-naughty-strings
+  - https://github.com/minimaxir/big-list-of-naughty-strings
+brutas.yaml:
+  - 1
+  - brutas
+  - https://github.com/tasooshi/brutas
 bruteforce-database.yaml:
-    - 0 
-    - bd
-    - https://github.com/duyet/bruteforce-database 
+  - 1
+  - bruteforce-database
+  - https://github.com/duyet/bruteforce-database
 bruteforce-lists.yaml:
-    - 0 
-    - bl
-    - https://github.com/random-robbie/bruteforce-lists
+  - 1
+  - bruteforce-lists
+  - https://github.com/random-robbie/bruteforce-lists
+commonspeak2-wordlists.yaml:
+  - 1
+  - commonspeak2-wordlists
+  - https://github.com/assetnote/commonspeak2-wordlists
+dotdotpwn.yaml:
+  - 1
+  - dotdotpwn
+  - https://github.com/wireghoul/dotdotpwn
+fuzz.txt.yaml:
+  - 1
+  - fuzz.txt
+  - https://github.com/Bo0oM/fuzz.txt
 fuzzdb.yaml:
-    - 0
-    - fz
-    - https://github.com/fuzzdb-project/fuzzdb
-others.yaml:
-    - 0
-    - ""
-    - ""
+  - 1
+  - fuzzdb
+  - https://github.com/fuzzdb-project/fuzzdb
+hackerone_wordlist.yaml:
+  - 1
+  - hackerone_wordlist
+  - https://github.com/xyele/hackerone_wordlist
+ics-default-passwords.yaml:
+  - 1
+  - ics-default-passwords
+  - https://github.com/arnaudsoullie/ics-default-passwords
+intruderpayloads.yaml:
+  - 1
+  - intruderpayloads
+  - https://github.com/1N3/IntruderPayloads
+onelistforall.yaml:
+  - 1
+  - onelistforall
+  - https://github.com/six2dez/OneListForAll
+passlist.yaml:
+  - 1
+  - passlist
+  - https://github.com/j3ers3/PassList
+password-lists.yaml:
+  - 1
+  - password-lists
+  - https://github.com/lavalamp-/password-lists
+payloadsallthethings.yaml:
+  - 1
+  - patt
+  - https://github.com/swisskyrepo/PayloadsAllTheThings
+robotsdisallowed.yaml:
+  - 1
+  - robotsdisallowed
+  - https://github.com/danielmiessler/RobotsDisallowed
+samlists.yaml:
+  - 1
+  - samlists
+  - https://github.com/the-xentropy/samlists
+seclists.yaml:
+  - 1
+  - seclists
+  - https://github.com/danielmiessler/SecLists
+subbrute.yaml:
+  - 1
+  - subbrute
+  - https://github.com/TheRook/subbrute
+tk0-bugbounty.yaml:
+  - 1
+  - tk0-bugbounty
+  - https://github.com/tomikoski/tk0-bugbounty
+werdlists.yaml:
+  - 1
+  - werdlists
+  - https://github.com/decal/werdlists
+wfuzz.yaml:
+  - 1
+  - wfuzz
+  - https://github.com/xmendez/wfuzz
+wordlist.yaml:
+  - 1
+  - wordlist
+  - https://github.com/jeanphorn/wordlist
+
+characters.yaml:
+  - 1
+  - ""
+  - ""
+extensions.yaml:
+  - 1
+  - ""
+  - ""
+sets.yaml:
+  - 1
+  - ""
+  - ""
+urls.yaml:
+  - 1
+  - ""
+  - ""
 functions.yaml:
-    - 0
-    - ""
-    - ""
+  - 1
+  - ""
+  - ""
 ports.yaml:
-    - 0
-    - port
-    - ""
-seclist.yaml:
-    - 0
-    - sec
-    - https://github.com/danielmiessler/SecLists
+  - 1
+  - port
+  - ""

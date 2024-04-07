@@ -1,0 +1,7 @@
+files:
+    rails-1k-sample-august-2018.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/routes/rails-1k-sample-august-2018.txt]
+    subdomains.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/subdomains/subdomains.txt]
+    aspx.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/wordswithext/aspx.txt]
+    jsp.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/wordswithext/jsp.txt]
+    php.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/wordswithext/php.txt]
+    words.txt: [https://raw.githubusercontent.com/assetnote/commonspeak2-wordlists/master/wordswithext/words.txt]

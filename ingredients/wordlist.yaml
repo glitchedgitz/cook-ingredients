@@ -1,0 +1,6 @@
+files:
+    adobe_top100_password.txt: [https://raw.githubusercontent.com/jeanphorn/wordlist/master/adobe_top100_password.txt]
+    passlist.txt: [https://raw.githubusercontent.com/jeanphorn/wordlist/master/passlist.txt]
+    rdp_passlist.txt: [https://raw.githubusercontent.com/jeanphorn/wordlist/master/rdp_passlist.txt]
+    ssh_passwd.txt: [https://raw.githubusercontent.com/jeanphorn/wordlist/master/ssh_passwd.txt]
+    usernames.txt: [https://raw.githubusercontent.com/jeanphorn/wordlist/master/usernames.txt]
