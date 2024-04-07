@@ -9,7 +9,6 @@ yamlfiles:
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/bruteforce-lists.yaml"
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/my.yaml"
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/fuzzdb.yaml"
-  - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/others.yaml"
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/functions.yaml"
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/ports.yaml"
   - "https://raw.githubusercontent.com/glitchedgitz/cook-ingredients/main/ingredients/seclist.yaml"
